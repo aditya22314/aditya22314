@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Adityatejus
 - 👀 I’m interested in Creating Projects
-- 🌱 I’m currently learning Web Development 
+- 🌱 I 'm  aiming to be a full stack web developer
 - 
 - 📫 How to reach me ... Email :- tejusadianu500@gmail.com
 
