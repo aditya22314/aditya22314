@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working in **ULTS COMPANY**
 
-- 🌱 I’m currently learning **Redux,Node Js,Vue Js**
+- 🌱 Experienced in React js ,Node ,Javascript 
 
 - 👯 I’m looking to collaborate on **frontend projects**
 
